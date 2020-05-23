@@ -1,7 +1,7 @@
 # CamSlider
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-<div align=”center”><img src="/Slider.gif"/></div>
+<p align="center"><img src="/Slider.gif"/></p>
 
 ## Authors
 * **Raj Prakash Shinde** [GitHub](https://github.com/RajPShinde)
